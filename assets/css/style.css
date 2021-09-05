@@ -201,6 +201,23 @@ p {
     font-weight: 400;
     display: contents; }
 
+/*=====YouTube container =====*/
+.iframe-container{
+position: relative;
+width: 100%;
+padding-bottom: 56.25%;
+height: 0;
+}
+.iframe-container iframe{
+position: absolute;
+top:0;
+left: 0;
+width: 70%;
+margin-right: 15%;
+margin-left:15%;
+height: 100%;
+}
+
 /*===== All Slick Slide Outline Style =====*/
 .slick-slide {
   outline: 0; }
