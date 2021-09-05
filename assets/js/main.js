@@ -18,7 +18,7 @@ $(function () {
             $(".navbar .navbar-brand img").attr("src", "assets/images/alphamini.png");
         } else {
             $(".navbar-area").addClass("sticky");
-            $(".navbar .navbar-brand img").attr("src", "assets/images/alphamini.png");
+            $(".navbar .navbar-brand img").attr("src", "assets/images/alphamini_2.png");
         }
     });
 
